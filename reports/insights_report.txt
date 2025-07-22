@@ -1,0 +1,19 @@
+RELATÓRIO DE INSIGHTS FINANCEIROS
+==================================================
+
+Data da Análise: 22/07/2025 13:29
+
+💡 A Obra Banheiro é a principal fonte de receita, representando 73.2% do total arrecadado.
+✅ A situação financeira está positiva com saldo de R$ 1531.00.
+💳 PIX é a forma de pagamento predominante, indicando preferência por transações digitais.
+📈 RECOMENDAÇÕES:
+   • Manter foco na Obra Banheiro como principal fonte de arrecadação
+   • Expandir vendas de Cachorro Quente para diversificar receitas
+   • Implementar controle mais rigoroso de despesas
+   • Considerar campanhas de arrecadação adicionais
+
+
+RESUMO EXECUTIVO:
+Total de Receitas: R$ 1531.00
+Saldo Geral: R$ 1531.00
+Margem Líquida: 100.00%

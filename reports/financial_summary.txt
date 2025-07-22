@@ -1,0 +1,20 @@
+RESUMO FINANCEIRO
+==================================================
+
+cachorro_quente_portaria: R$ 343.00
+cachorro_quente_campus: R$ 68.00
+cachorro_quente_orcamento_sugerido: R$ 0.00
+cachorro_quente_orcamento_lucro: R$ 0.00
+total_cachorro_quente: R$ 411.00
+conta_casa_entradas: R$ 0.00
+conta_casa_saidas: R$ 0.00
+conta_casa_saldo: R$ 0.00
+dividas_2024: R$ 0.00
+dividas_2025: R$ 0.00
+total_dividas: R$ 0.00
+obra_banheiro_arrecadado: R$ 1120.00
+obra_banheiro_orcado: R$ 0.00
+obra_banheiro_deficit: R$ 1120.00
+total_receitas: R$ 1531.00
+total_despesas: R$ 0.00
+saldo_geral: R$ 1531.00
